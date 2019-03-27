@@ -7,6 +7,5 @@ Vue.component('g-icon',Icon)
 
 new Vue({
     el: '#app'
-
 })
 
