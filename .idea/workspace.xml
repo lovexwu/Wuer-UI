@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3195461b-329e-4d6a-ab30-0fa7a9740ec1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/button-group.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/button-group.vue" afterDir="false" />
-    </list>
+    <list default="true" id="3195461b-329e-4d6a-ab30-0fa7a9740ec1" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -56,7 +54,7 @@
           <entry key="js" value="353" />
           <entry key="json" value="2" />
           <entry key="md" value="99" />
-          <entry key="txt" value="291" />
+          <entry key="txt" value="323" />
           <entry key="vue" value="1982" />
         </counts>
       </usages-collector>
@@ -65,7 +63,7 @@
           <entry key="HTML" value="1502" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="349" />
-          <entry key="PLAIN_TEXT" value="419" />
+          <entry key="PLAIN_TEXT" value="451" />
           <entry key="Vue.js" value="1982" />
         </counts>
       </usages-collector>
@@ -77,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/src/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
-              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -97,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/button-group.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            <state relative-caret-position="77">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -107,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/src/button.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
-              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
               <folding>
                 <element signature="e#389#677#0" />
               </folding>
@@ -119,7 +117,7 @@
         <entry file="file://$PROJECT_DIR$/src/icon.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
-              <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -160,11 +158,10 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-58" />
-    <option name="y" value="263" />
-    <option name="width" value="1440" />
-    <option name="height" value="344" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="38" />
+    <option name="width" value="1433" />
+    <option name="height" value="806" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -196,7 +193,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RunDashboard">
@@ -222,7 +219,7 @@
       <option name="presentableId" value="Default" />
       <updated>1553655438758</updated>
       <workItem from="1553655441376" duration="27275000" />
-      <workItem from="1553693418933" duration="6594000" />
+      <workItem from="1553693418933" duration="6883000" />
     </task>
     <task id="LOCAL-00001" summary="npm install vue">
       <created>1553657286085</created>
@@ -322,11 +319,25 @@
       <option name="project" value="LOCAL" />
       <updated>1553703949144</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="第一个元素不需要 margin left -1px">
+      <created>1553704193359</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1553704193359</updated>
+    </task>
+    <task id="LOCAL-00016" summary="第1个元素不需要 margin left -1px">
+      <created>1553704282365</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1553704282365</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33869000" />
+    <option name="totallyTimeSpent" value="34158000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -338,11 +349,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
-    <editor active="true" />
+    <frame x="-206" y="707" width="1252" height="344" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49651325" visible="true" weight="0.15010571" />
-      <window_info id="Structure" order="1" sideWeight="0.50348675" side_tool="true" visible="true" weight="0.15010571" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4915254" visible="true" weight="0.17303006" />
+      <window_info id="Structure" order="1" sideWeight="0.5084746" side_tool="true" visible="true" weight="0.17303006" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -382,7 +392,9 @@
     <MESSAGE value="添加 click 事件" />
     <MESSAGE value="创建 button group" />
     <MESSAGE value="检测子元素是不是button" />
-    <option name="LAST_COMMIT_MESSAGE" value="检测子元素是不是button" />
+    <MESSAGE value="第一个元素不需要 margin left -1px" />
+    <MESSAGE value="第1个元素不需要 margin left -1px" />
+    <option name="LAST_COMMIT_MESSAGE" value="第1个元素不需要 margin left -1px" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/button.js" />
@@ -429,7 +441,7 @@
     <entry file="file://$PROJECT_DIR$/src/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
@@ -439,7 +451,7 @@
     <entry file="file://$PROJECT_DIR$/src/button.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding>
             <element signature="e#389#677#0" />
           </folding>
@@ -449,7 +461,7 @@
     <entry file="file://$PROJECT_DIR$/src/icon.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
-          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -462,8 +474,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/button-group.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="77">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
         </state>
       </provider>
     </entry>
