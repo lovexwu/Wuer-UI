@@ -18,6 +18,9 @@ new Vue({
 })
 
 import chai from 'chai'
+import spies from 'chai-spies'
+chai.use(spies)
+
 const expect = chai.expect
 
 //单元测试
@@ -94,7 +97,7 @@ const expect = chai.expect
     vm.$destroy()// vm中的 button对象 从页面里删除
 }
 
-{
+{//mock
     const Constructor = Vue.extend(Button)
     const vm = new Constructor({
         propsData:{
@@ -103,10 +106,12 @@ const expect = chai.expect
     })
 
     vm.$mount()
-    vm.$on('click',function(){
-        console.log(1)
-    })
+
+    let spy = chai.spy(function(){})
+
+    vm.$on('click',spy) //1、on click 触发 spy
 
     let button = vm.$el
-    button.click()
+    button.click()// 2、button点击后
+    expect(spy).to.have.been.called() //3、期待 spy 已经被调用了
 }
