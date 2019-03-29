@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3195461b-329e-4d6a-ab30-0fa7a9740ec1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icon.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/icon.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,7 +33,7 @@
           <entry key="gitignore" value="3" />
           <entry key="html" value="3" />
           <entry key="js" value="12" />
-          <entry key="json" value="4" />
+          <entry key="json" value="5" />
           <entry key="md" value="1" />
           <entry key="ts" value="2" />
           <entry key="vue" value="6" />
@@ -44,7 +43,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="3" />
-          <entry key="JSON" value="4" />
+          <entry key="JSON" value="5" />
           <entry key="JavaScript" value="12" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="TypeScript" value="2" />
@@ -78,12 +77,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="43">
               <caret line="16" selection-start-line="16" selection-end-line="25" selection-end-column="9" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1074" />
           </provider>
         </entry>
       </file>
@@ -129,10 +135,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="435" />
-    <option name="y" value="360" />
+    <option name="x" value="644" />
+    <option name="y" value="200" />
     <option name="width" value="850" />
-    <option name="height" value="413" />
+    <option name="height" value="576" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -212,7 +218,7 @@
       <option name="presentableId" value="Default" />
       <updated>1553655438758</updated>
       <workItem from="1553655441376" duration="27275000" />
-      <workItem from="1553693418933" duration="30042000" />
+      <workItem from="1553693418933" duration="30371000" />
     </task>
     <task id="LOCAL-00001" summary="npm install vue">
       <created>1553657286085</created>
@@ -351,7 +357,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57317000" />
+    <option name="totallyTimeSpent" value="57646000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -363,10 +369,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="435" y="360" width="850" height="413" extended-state="0" />
+    <frame x="644" y="200" width="850" height="576" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4950495" visible="true" weight="0.22316043" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4950495" visible="true" weight="0.42943305" />
       <window_info id="Structure" order="1" sideWeight="0.5049505" side_tool="true" weight="0.26715177" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -560,6 +566,11 @@
         <state relative-caret-position="43">
           <caret line="16" selection-start-line="16" selection-end-line="25" selection-end-column="9" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1074" />
       </provider>
     </entry>
   </component>
