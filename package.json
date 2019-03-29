@@ -1,14 +1,12 @@
 {
   "name": "xwu_gulu",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "这是一个UI 框架",
   "main": "dist/index.js",
   "scripts": {
     "dev-test": "parcel watch test/* --no-cache & karma start",
     "test": "parcel build test/* --no-cache --no-minify && karma start --single-run"
   },
-
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lovexwu/gulu.git"
