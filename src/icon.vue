@@ -1,5 +1,5 @@
 <template>
-    <svg class="g-icon wuer">
+    <svg class="g-icon wuer8">
         <use :xlink:href="`#i-${name}`"></use>
     </svg>
 </template>
