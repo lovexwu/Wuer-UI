@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3195461b-329e-4d6a-ab30-0fa7a9740ec1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -61,7 +60,7 @@
           <entry key="js" value="3543" />
           <entry key="json" value="67" />
           <entry key="md" value="571" />
-          <entry key="txt" value="526" />
+          <entry key="txt" value="546" />
           <entry key="vue" value="3574" />
           <entry key="yml" value="165" />
         </counts>
@@ -72,7 +71,7 @@
           <entry key="JSON" value="67" />
           <entry key="JavaScript" value="3539" />
           <entry key="Markdown" value="32" />
-          <entry key="PLAIN_TEXT" value="1094" />
+          <entry key="PLAIN_TEXT" value="1114" />
           <entry key="Vue.js" value="3574" />
           <entry key="YAML" value="165" />
         </counts>
@@ -108,9 +107,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="330">
-                <caret line="30" column="7" lean-forward="true" selection-end-line="66" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="280">
+                <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -284,7 +283,7 @@
       <workItem from="1553693418933" duration="46745000" />
       <workItem from="1554087571687" duration="11541000" />
       <workItem from="1554131520834" duration="315000" />
-      <workItem from="1554131988305" duration="364000" />
+      <workItem from="1554131988305" duration="579000" />
     </task>
     <task id="LOCAL-00001" summary="npm install vue">
       <created>1553657286085</created>
@@ -461,11 +460,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554129987547</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="README.md 更新">
+      <created>1554132619547</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1554132619547</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86240000" />
+    <option name="totallyTimeSpent" value="86455000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -554,7 +560,8 @@
     <MESSAGE value="添加 input.vue 及其样式" />
     <MESSAGE value="添加 input 的 测试用例" />
     <MESSAGE value="让 input 支持 v-model 双向绑定" />
-    <option name="LAST_COMMIT_MESSAGE" value="让 input 支持 v-model 双向绑定" />
+    <MESSAGE value="README.md 更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md 更新" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -737,9 +744,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="330">
-            <caret line="30" column="7" lean-forward="true" selection-end-line="66" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="280">
+            <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />

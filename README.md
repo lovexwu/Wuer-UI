@@ -8,16 +8,13 @@
 ## 开始使用
 
 1、添加 CSS 样式
-
-    使用本框架前，请在 css 中开启 border-box
-
-    ```
-    *,*::before,*::after{box-sizing: border-box}
-    ```
-    IE8 及 以上浏览器都支持此样式
-
-    你还需要设置默认颜色等变量（后续会改为 SCSS 变量）
-    ```
+```
+*,*::before,*::after{box-sizing: border-box}
+```
+IE8 及 以上浏览器都支持此样式
+你还需要设置默认颜色等变量（后续会改为 SCSS 变量）
+    
+```
     html {
         --button-height: 32px;
         --button-bg: white;
@@ -27,8 +24,9 @@
         --color: #333;
         --border-color: #999;
         --border-color-hover: #666;
-    }    ```
-    IE15 及 以上浏览器都支持此样式
+    }
+ ```
+IE15 及 以上浏览器都支持此样式
 
 2、安装 gulu
     ```
@@ -36,7 +34,7 @@
     ```
 
 3、引入gulu
-    ```
+```
     import {Button,ButtonGroup,Icon} from 'xwu_gulu'
     import 'xwu_gulu/dist/index.css'
 
@@ -46,7 +44,7 @@
         'g-button': Button
       }
     }
-    ```
+```
 
 
 
