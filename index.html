@@ -53,7 +53,11 @@
         <!--<g-input value="王五"></g-input>-->
     <!--</div>-->
     <div class="box">
-        <g-input value="张六" @change="inputChange"></g-input>
+        {{message}}
+        <g-input v-model="message"></g-input>
+        <button @click="message+=1">
+            +
+        </button>
     </div>
     <div class="box">
         <g-button :loading = "loading1" @click = "loading1 = !loading1">

@@ -15,14 +15,11 @@ new Vue({
     data:{
         loading1: false,
         loading2: true,
-        loading3: false
+        loading3: false,
+        message: 'hello xwu'
     },
     created(){
-        setTimeout(() =>{
-            let event = new Event('change');
-            let inputElement = this.$el.querySelector('input')
-            inputElement.dispatchEvent(event)
-        },3000)
+
     },
     methods:{
         inputChange(e){
