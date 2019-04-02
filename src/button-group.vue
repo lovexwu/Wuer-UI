@@ -11,7 +11,7 @@ export default {
      for(let node of this.$el.children){
          let name =node.nodeName.toLocaleLowerCase();
          if(name !== 'vm'){
-             console.warn(`g-button-group 的子元素 应该全是 g-button,但是你写的是 ${name}`)
+             //console.warn(`g-button-group 的子元素 应该全是 g-button,但是你写的是 ${name}`)
          }
      }
     }
