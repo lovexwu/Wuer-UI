@@ -46,12 +46,49 @@
 
 </head>
 <body>
+<style>
+    .row{
+        display: flex;
+    }
+    .col{
+        width: 50%;
+        height: 100px;
+        background: gray;
+        border: 1px solid red;
+    }
+    .col[data-span="2"]{
+        width: 8.33333%;
+    }
+    .col[data-span="22"]{
+        width: 91.66667%;
+    }
+</style>
 <div id="app">
-    <!--<div class="box">-->
-        <!--<g-input value="张三" disabled></g-input>-->
-        <!--<g-input value="李四" readonly></g-input>-->
-        <!--<g-input value="王五"></g-input>-->
-    <!--</div>-->
+
+   <g-row>
+       <g-col>1</g-col>
+       <g-col>2</g-col>
+   </g-row>
+
+    <g-row>
+        <g-col>1</g-col>
+        <g-col>2</g-col>
+        <g-col>3</g-col>
+    </g-row>
+    <g-row>
+        <g-col>1</g-col>
+        <g-col>2</g-col>
+        <g-col>3</g-col>
+        <g-col>4</g-col>
+    </g-row>
+    <g-row>
+        <g-col span="2">1</g-col>
+        <g-col span="22">11</g-col>
+    </g-row>
+
+
+    <hr>
+
     <div class="box">
         {{message}}
         <g-input v-model="message"></g-input>
