@@ -4,8 +4,6 @@
     <list default="true" id="3195461b-329e-4d6a-ab30-0fa7a9740ec1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/button-group.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/button-group.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/col.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/col.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/row.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/row.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -60,23 +58,23 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="29" />
-          <entry key="html" value="2404" />
+          <entry key="html" value="2766" />
           <entry key="js" value="3617" />
           <entry key="json" value="67" />
           <entry key="md" value="571" />
-          <entry key="txt" value="564" />
-          <entry key="vue" value="4681" />
+          <entry key="txt" value="600" />
+          <entry key="vue" value="5222" />
           <entry key="yml" value="165" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="2408" />
+          <entry key="HTML" value="2770" />
           <entry key="JSON" value="67" />
           <entry key="JavaScript" value="3613" />
           <entry key="Markdown" value="32" />
-          <entry key="PLAIN_TEXT" value="1132" />
-          <entry key="Vue.js" value="4681" />
+          <entry key="PLAIN_TEXT" value="1168" />
+          <entry key="Vue.js" value="5222" />
           <entry key="YAML" value="165" />
         </counts>
       </usages-collector>
@@ -99,8 +97,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
+            <state relative-caret-position="-638">
+              <caret line="51" column="14" lean-forward="true" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -111,8 +109,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/row.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            <state relative-caret-position="855">
+              <caret line="57" column="23" lean-forward="true" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -120,11 +118,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/col.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="25" column="10" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="25" selection-end-column="10" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="290">
+              <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -176,10 +171,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="675" />
-    <option name="y" value="138" />
-    <option name="width" value="880" />
-    <option name="height" value="699" />
+    <option name="x" value="643" />
+    <option name="y" value="23" />
+    <option name="width" value="797" />
+    <option name="height" value="825" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -233,7 +228,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="ReadonlyStatusHandler">
@@ -265,7 +260,7 @@
       <workItem from="1553693418933" duration="46745000" />
       <workItem from="1554087571687" duration="11541000" />
       <workItem from="1554131520834" duration="315000" />
-      <workItem from="1554131988305" duration="12031000" />
+      <workItem from="1554131988305" duration="16471000" />
     </task>
     <task id="LOCAL-00001" summary="npm install vue">
       <created>1553657286085</created>
@@ -463,11 +458,25 @@
       <option name="project" value="LOCAL" />
       <updated>1554168779230</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="基本实现 row 和 col 的功能">
+      <created>1554196269170</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1554196269170</updated>
+    </task>
+    <task id="LOCAL-00030" summary="重构 row 和 col">
+      <created>1554200188815</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1554200188815</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97907000" />
+    <option name="totallyTimeSpent" value="102347000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -479,10 +488,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="675" y="138" width="880" height="699" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48675033" visible="true" weight="0.0" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48675033" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" sideWeight="0.51324964" side_tool="true" weight="0.32980973" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -496,7 +505,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.20276497" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3297414" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3283582" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -533,8 +542,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="npm install vue" />
-    <MESSAGE value="完成按钮基本样式" />
     <MESSAGE value="安装 parcel" />
     <MESSAGE value="加入 parcel，将 button 组件改为单文件组件" />
     <MESSAGE value="添加 icon 和 iconPosition 属性" />
@@ -558,7 +565,9 @@
     <MESSAGE value="让 input 支持 v-model 双向绑定" />
     <MESSAGE value="README.md 更新" />
     <MESSAGE value="row 和 col 的 雏形完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="row 和 col 的 雏形完成" />
+    <MESSAGE value="基本实现 row 和 col 的功能" />
+    <MESSAGE value="重构 row 和 col" />
+    <option name="LAST_COMMIT_MESSAGE" value="重构 row 和 col" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -754,25 +763,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/col.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="25" column="10" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="25" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="290">
+          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/row.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        <state relative-caret-position="855">
+          <caret line="57" column="23" lean-forward="true" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
+        <state relative-caret-position="-638">
+          <caret line="51" column="14" lean-forward="true" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
