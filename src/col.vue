@@ -60,7 +60,7 @@
             colStyle(){
                 return {
                     paddingLeft:  this.gutter/2 + 'px',
-                    paddingRight: this.gutter/2 + 'px'
+                    paddingRight: this.gutter/2 + 'px',
                 }
             }
         }
