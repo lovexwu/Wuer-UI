@@ -41,7 +41,9 @@ new Vue({
         message: 'hello xwu'
     },
     created(){
-
+       this.$toast('文字',{
+            enableHtml: false
+       })
     },
     methods:{
         showToast(){
