@@ -53,7 +53,6 @@
      },
 
      mounted(){
-         console.log(this.$el.outerHTML); // 有line
          this.updateStyles()
          this.execAutoClose()
      },
@@ -65,8 +64,6 @@
      methods:{
          updateStyles(){
              this.$nextTick(()=>{
-                 console.log(this.$refs);
-                 console.log(this.$refs.line); // line是 undefined
                  this.$refs.line.style.height = `${this.$refs.toast.getBoundingClientRect().height}px`
              })
          },
