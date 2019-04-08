@@ -32,6 +32,7 @@ Vue.component('g-toast', Toast)
 Vue.use(plugin)
 
 
+
 new Vue({
     el: '#app',
     data:{
@@ -63,12 +64,12 @@ new Vue({
                         console.log('他说已充值智商了')
                     }
                 },
-                autoClose: false,
-                autoCloseDelay: 5
+                autoClose: 3
             })
         }
     }
 })
+
 
 
 

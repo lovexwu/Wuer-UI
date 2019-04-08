@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3195461b-329e-4d6a-ab30-0fa7a9740ec1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/toast.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/plunin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/plunin.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/toast.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/toast.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,12 +20,12 @@
     <session id="1803675636">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -38,7 +37,7 @@
         <counts>
           <entry key="gitignore" value="4" />
           <entry key="html" value="9" />
-          <entry key="js" value="36" />
+          <entry key="js" value="45" />
           <entry key="json" value="7" />
           <entry key="md" value="3" />
           <entry key="ts" value="2" />
@@ -50,7 +49,7 @@
         <counts>
           <entry key="HTML" value="9" />
           <entry key="JSON" value="7" />
-          <entry key="JavaScript" value="36" />
+          <entry key="JavaScript" value="45" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="TypeScript" value="2" />
           <entry key="Vue.js" value="31" />
@@ -61,11 +60,11 @@
         <counts>
           <entry key="gitignore" value="29" />
           <entry key="html" value="3690" />
-          <entry key="js" value="6712" />
+          <entry key="js" value="7632" />
           <entry key="json" value="67" />
           <entry key="md" value="571" />
-          <entry key="txt" value="944" />
-          <entry key="vue" value="10383" />
+          <entry key="txt" value="952" />
+          <entry key="vue" value="10594" />
           <entry key="yml" value="165" />
         </counts>
       </usages-collector>
@@ -73,10 +72,10 @@
         <counts>
           <entry key="HTML" value="3723" />
           <entry key="JSON" value="67" />
-          <entry key="JavaScript" value="6679" />
+          <entry key="JavaScript" value="7599" />
           <entry key="Markdown" value="32" />
-          <entry key="PLAIN_TEXT" value="1512" />
-          <entry key="Vue.js" value="10383" />
+          <entry key="PLAIN_TEXT" value="1520" />
+          <entry key="Vue.js" value="10594" />
           <entry key="YAML" value="165" />
         </counts>
       </usages-collector>
@@ -90,8 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+            <state relative-caret-position="495">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -99,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/toast.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="118" column="34" selection-start-line="118" selection-start-column="34" selection-end-line="118" selection-end-column="34" />
+            <state relative-caret-position="315">
+              <caret line="72" column="25" lean-forward="true" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -111,13 +110,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/plunin.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="525">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/toast.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
               <folding>
-                <element signature="e#71#419#0" />
-                <element signature="e#134#413#0" />
-                <element signature="e#437#469#0" />
-                <element signature="e#276#330#0" />
+                <element signature="e#28#49#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,8 +131,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            <state relative-caret-position="101">
+              <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -138,6 +143,7 @@
     <findStrings>
       <find>phoneClass</find>
       <find>vali</find>
+      <find>style</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -171,8 +177,10 @@
         <option value="$PROJECT_DIR$/src/layout.vue" />
         <option value="$PROJECT_DIR$/src/row.vue" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/src/app.js" />
         <option value="$PROJECT_DIR$/src/plunin.js" />
+        <option value="$PROJECT_DIR$/src/app2.js" />
+        <option value="$PROJECT_DIR$/src/app.js" />
+        <option value="$PROJECT_DIR$/test/toast.test.js" />
         <option value="$PROJECT_DIR$/src/toast.vue" />
       </list>
     </option>
@@ -194,10 +202,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="488" />
-    <option name="y" value="418" />
-    <option name="width" value="786" />
-    <option name="height" value="314" />
+    <option name="x" value="633" />
+    <option name="y" value="116" />
+    <option name="width" value="587" />
+    <option name="height" value="471" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -254,7 +262,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="ReadonlyStatusHandler">
@@ -303,7 +311,8 @@
       <workItem from="1554087571687" duration="11541000" />
       <workItem from="1554131520834" duration="315000" />
       <workItem from="1554131988305" duration="63241000" />
-      <workItem from="1554479496278" duration="15414000" />
+      <workItem from="1554479496278" duration="25865000" />
+      <workItem from="1554691628951" duration="4556000" />
     </task>
     <task id="LOCAL-00001" summary="npm install vue">
       <created>1553657286085</created>
@@ -620,7 +629,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554630083861</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="优化三种动画">
+      <created>1554643781686</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1554643781686</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -632,7 +648,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164531000" />
+    <option name="totallyTimeSpent" value="179538000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -644,15 +660,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="488" y="418" width="786" height="314" extended-state="0" />
+    <frame x="633" y="116" width="587" height="471" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45606694" weight="0.20366456" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45606694" weight="0.2015504" />
       <window_info id="Structure" order="1" sideWeight="0.54393303" side_tool="true" weight="0.20366456" />
       <window_info id="npm" order="2" sideWeight="0.52100843" side_tool="true" weight="0.32911393" />
       <window_info id="Favorites" order="3" sideWeight="0.5221843" side_tool="true" weight="0.0" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3287858" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32854208" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -660,8 +676,8 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32718894" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.12831241" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3297414" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.12664908" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32914925" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3283582" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -698,7 +714,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="使用 chai.spy 监听回调函数" />
     <MESSAGE value="更新 README.md" />
     <MESSAGE value="将 iconfont.js 放到 icon.vue" />
     <MESSAGE value="去除对 iconfont 的依赖" />
@@ -723,7 +738,8 @@
     <MESSAGE value="实现了 只能有一个 Toast  的功能" />
     <MESSAGE value="解决 currentToast 的一个 bug" />
     <MESSAGE value="实现进入 动画" />
-    <option name="LAST_COMMIT_MESSAGE" value="实现进入 动画" />
+    <MESSAGE value="优化三种动画" />
+    <option name="LAST_COMMIT_MESSAGE" value="优化三种动画" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -742,6 +758,17 @@
           <url>file://$PROJECT_DIR$/test/input.test.js</url>
           <line>78</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/toast.vue</url>
+          <line>104</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/toast.vue</url>
+          <line>95</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -876,16 +903,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/input.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="68" column="25" lean-forward="true" selection-end-line="89" selection-end-column="2" />
-          <folding>
-            <element signature="e#28#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/karma.conf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-120">
@@ -893,24 +910,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/button.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="26" column="21" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/row.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="53" column="13" lean-forward="true" selection-end-line="60" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/col.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="93" column="40" selection-start-line="93" selection-start-column="40" selection-end-line="93" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -963,17 +966,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/col.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="93" column="40" selection-start-line="93" selection-start-column="40" selection-end-line="93" selection-end-column="40" />
+          <folding>
+            <element signature="e#28#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/button.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-472">
+          <caret line="18" selection-start-line="18" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <element signature="e#28#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/input.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-517">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <element signature="e#28#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        <state relative-caret-position="101">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+        <state relative-caret-position="495">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
@@ -982,21 +1015,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/plunin.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding>
-            <element signature="e#71#419#0" />
-            <element signature="e#134#413#0" />
-            <element signature="e#437#469#0" />
-            <element signature="e#276#330#0" />
-          </folding>
+        <state relative-caret-position="525">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/toast.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="118" column="34" selection-start-line="118" selection-start-column="34" selection-end-line="118" selection-end-column="34" />
+        <state relative-caret-position="315">
+          <caret line="72" column="25" lean-forward="true" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/toast.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="e#28#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
