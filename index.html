@@ -12,9 +12,30 @@
 <body>
 
 <div id="app">
-    <button @click="showToast1">top</button>
-    <button @click="showToast2">middle</button>
-    <button @click="showToast3">bottom</button>
+ <g-tabs :selected.sync="selectedTab">
+         <g-tabs-head>
+             <template slot="actions">
+                 <button>设置</button>
+             </template>
+         <g-tabs-item class="woman">
+             <g-icon name="settings"></g-icon>
+             美女
+         </g-tabs-item>
+         <g-tabs-item class="finance" disabled>财经</g-tabs-item>
+         <g-tabs-item class="sports">体育</g-tabs-item>
+     </g-tabs-head>
+    
+     <g-tabs-body>
+         <g-tabs-pane class="woman">美女相关讯息</g-tabs-pane>
+         <g-tabs-pane class="finance">财经相关讯息</g-tabs-pane>
+         <g-tabs-pane class="sports">体育相关讯息</g-tabs-pane>
+     </g-tabs-body>
+    
+     
+ </g-tabs>
+
+
+
 </div>
 
 <script src="./src/app.js"></script>
