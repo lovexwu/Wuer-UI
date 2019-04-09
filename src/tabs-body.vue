@@ -5,13 +5,13 @@
 </template>
 
 <script>
- export default {
-     name: 'GuluTabsBody',
-     inject:['eventBus'],
-     created(){
+    export default {
+        name: 'GuluTabsBody',
+        inject:['eventBus'],
+        created(){
 
-     }
- }
+        }
+    }
 </script>
 
 <style>
@@ -19,3 +19,4 @@
 
     }
 </style>
+

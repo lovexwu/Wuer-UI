@@ -9,15 +9,17 @@
 </template>
 
 <script>
- export default {
-     name: 'GuluTabsHead',
-     inject: ['eventBus'],
-     created(){
-        this.eventBus.$on('update:selected',(item,vm)=>{
-            console.log(item,vm);
-        })
-     }
- }
+    export default {
+        name: 'GuluTabsHead',
+        inject: ['eventBus'],
+        mounted(){
+            this.eventBus.$on('update:selected',(item,vm) => {
+                let {width,left} = vm.$el.getBoundingClientRect()
+                this.$refs.line.style.width = `${width}px`
+                this.$refs.line.style.left = `${left}px`
+            })
+        }
+    }
 </script>
 
 <style lang="scss" scoped>
@@ -25,18 +27,20 @@
     $blue: #1890ff;
     .tabs-head{
         display: flex;
+        justify-content: flex-start;
         height: $tab-height;
-        border: 1px solid red;
         position: relative;
 
         > .line{
             position: absolute;
             bottom: 0;
             border-bottom:1px solid $blue;
-            width: 100px;
+            transition: all .3s;
         }
+
         > .actions-wrapper{
             margin-left: auto;
         }
     }
 </style>
+
