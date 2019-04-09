@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3195461b-329e-4d6a-ab30-0fa7a9740ec1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tabs-body.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/tabs-body.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tabs-head.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/tabs-head.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tabs-item.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/tabs-item.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tabs-pane.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/tabs-pane.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tabs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/tabs.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,7 +34,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="4" />
-          <entry key="html" value="10" />
+          <entry key="html" value="11" />
           <entry key="js" value="47" />
           <entry key="json" value="7" />
           <entry key="md" value="3" />
@@ -50,7 +45,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="10" />
+          <entry key="HTML" value="11" />
           <entry key="JSON" value="7" />
           <entry key="JavaScript" value="47" />
           <entry key="PLAIN_TEXT" value="7" />
@@ -62,23 +57,23 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="29" />
-          <entry key="html" value="4241" />
+          <entry key="html" value="4252" />
           <entry key="js" value="7977" />
           <entry key="json" value="67" />
           <entry key="md" value="571" />
-          <entry key="txt" value="1081" />
-          <entry key="vue" value="13417" />
+          <entry key="txt" value="1091" />
+          <entry key="vue" value="13522" />
           <entry key="yml" value="165" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="4274" />
+          <entry key="HTML" value="4285" />
           <entry key="JSON" value="67" />
           <entry key="JavaScript" value="7944" />
           <entry key="Markdown" value="32" />
-          <entry key="PLAIN_TEXT" value="1649" />
-          <entry key="Vue.js" value="13417" />
+          <entry key="PLAIN_TEXT" value="1659" />
+          <entry key="Vue.js" value="13522" />
           <entry key="YAML" value="165" />
         </counts>
       </usages-collector>
@@ -128,11 +123,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="34" selection-start-line="34" selection-end-line="41" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/tabs-head.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <state relative-caret-position="344">
+              <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -193,10 +197,10 @@
         <option value="$PROJECT_DIR$/src/dia.vue" />
         <option value="$PROJECT_DIR$/src/tabs.vue" />
         <option value="$PROJECT_DIR$/src/tabs-body.vue" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/src/tabs-head.vue" />
         <option value="$PROJECT_DIR$/src/tabs-pane.vue" />
         <option value="$PROJECT_DIR$/src/tabs-item.vue" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/tabs-head.vue" />
       </list>
     </option>
   </component>
@@ -216,11 +220,11 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="31" />
-    <option name="y" value="273" />
-    <option name="width" value="1440" />
-    <option name="height" value="786" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="230" />
+    <option name="y" value="23" />
+    <option name="width" value="778" />
+    <option name="height" value="545" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -333,14 +337,7 @@
       <workItem from="1554131520834" duration="315000" />
       <workItem from="1554131988305" duration="63241000" />
       <workItem from="1554479496278" duration="25865000" />
-      <workItem from="1554691628951" duration="36931000" />
-    </task>
-    <task id="LOCAL-00005" summary="添加 icon 和 iconPosition 属性">
-      <created>1553685236231</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1553685236231</updated>
+      <workItem from="1554691628951" duration="38697000" />
     </task>
     <task id="LOCAL-00006" summary="验证 iconPosition 为 left 或 right 中的一个">
       <created>1553689214933</created>
@@ -678,7 +675,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554796262212</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="tab 切换动画完成">
+      <created>1554822948756</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1554822948756</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -690,7 +694,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211913000" />
+    <option name="totallyTimeSpent" value="213679000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -702,7 +706,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
+    <frame x="230" y="23" width="778" height="545" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46268657" weight="0.22208121" />
@@ -784,7 +788,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
-    <MESSAGE value="README.md 更新" />
     <MESSAGE value="row 和 col 的 雏形完成" />
     <MESSAGE value="基本实现 row 和 col 的功能" />
     <MESSAGE value="重构 row 和 col" />
@@ -809,7 +812,8 @@
     <MESSAGE value="tabs 可以切换了" />
     <MESSAGE value="增大 tab item 可点击区域" />
     <MESSAGE value="触发 update:selected 事件时 添加一个 item 数据" />
-    <option name="LAST_COMMIT_MESSAGE" value="触发 update:selected 事件时 添加一个 item 数据" />
+    <MESSAGE value="tab 切换动画完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="tab 切换动画完成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1137,15 +1141,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        <state relative-caret-position="139">
+          <caret line="34" selection-start-line="34" selection-end-line="41" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tabs-head.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        <state relative-caret-position="344">
+          <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
         </state>
       </provider>
     </entry>
