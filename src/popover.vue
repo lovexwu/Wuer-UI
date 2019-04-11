@@ -1,5 +1,5 @@
 <template>
-    <div class="popover"  @click.stop="xxx">
+    <div class="popover"  @click="onClick" ref="popover">
         <div ref="contentWrapper" class="content-wrapper" v-if="visible">
             <slot name="content"></slot>
         </div>
@@ -17,32 +17,40 @@
             return {visible: false}
         },
         methods:{
-            xxx () {
-                this.visible = !this.visible
-                if (this.visible === true){
+            positionContent(){
+                document.body.appendChild(this.$refs.contentWrapper)
+                let {width,height,top,left} = this.$refs.triggerWrapper.getBoundingClientRect()
+                this.$refs.contentWrapper.style.left = left + window.scrollX+'px'
+                this.$refs.contentWrapper.style.top = top + window.scrollY+'px'
+            },
+            onClickDocument (event) {
+                if (this.$refs.popover &&
+                    (this.$refs.popover === event.target || this.$refs.popover.contains(event.target)) ) {
+                    return;
+                }
+                this.close()
+            },
+            open(){
+                this.visible = true
+                this.$nextTick(() => {
+                    this.positionContent()
+                    document.addEventListener('click', this.onClickDocument)
+                })
+            },
+            close() {
+                this.visible = false
+                document.removeEventListener('click', this.onClickDocument)
+            },
+            onClick (e) {
+                if(this.$refs.triggerWrapper.contains(e.target)){
 
-                    this.$nextTick(() => {
-                        document.body.appendChild(this.$refs.contentWrapper);
-
-                        let {width,height,top,left} = this.$refs.triggerWrapper.getBoundingClientRect()
-
-                        console.log('top:',top);
-                        console.log('left:', left);
-
-                        this.$refs.contentWrapper.style.left = left + window.scrollX+'px'
-                        this.$refs.contentWrapper.style.top = top + window.scrollY+'px'
-
-
-                        let eventHandler = () =>{
-                            this.visible = false
-                            document.removeEventListener('click',eventHandler)
-                        }
-                        document.addEventListener('click', eventHandler)
-                    })
+                    if (this.visible === true){
+                        this.close()
+                    }else{
+                        this.open()
+                    }
                 }
             }
-        },
-        mounted(){
         }
     }
 </script>
