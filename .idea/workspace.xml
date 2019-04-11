@@ -58,23 +58,23 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="29" />
-          <entry key="html" value="5036" />
+          <entry key="html" value="5089" />
           <entry key="js" value="8775" />
           <entry key="json" value="67" />
           <entry key="md" value="571" />
-          <entry key="txt" value="1245" />
-          <entry key="vue" value="17640" />
+          <entry key="txt" value="1269" />
+          <entry key="vue" value="18398" />
           <entry key="yml" value="165" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="5073" />
+          <entry key="HTML" value="5126" />
           <entry key="JSON" value="67" />
           <entry key="JavaScript" value="8738" />
           <entry key="Markdown" value="32" />
-          <entry key="PLAIN_TEXT" value="1813" />
-          <entry key="Vue.js" value="17640" />
+          <entry key="PLAIN_TEXT" value="1837" />
+          <entry key="Vue.js" value="18398" />
           <entry key="YAML" value="165" />
         </counts>
       </usages-collector>
@@ -130,10 +130,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="61" column="34" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
+            <state relative-caret-position="243">
+              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#g-popover#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -142,8 +145,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/popover.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="45" column="78" selection-start-line="45" selection-start-column="78" selection-end-line="45" selection-end-column="78" />
+            <state relative-caret-position="242">
+              <caret line="49" column="54" selection-start-line="49" selection-start-column="54" selection-end-line="49" selection-end-column="54" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#div#0;n#template#0;n#!!top" expanded="true" />
               </folding>
@@ -235,10 +238,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="619" />
-    <option name="y" value="25" />
-    <option name="width" value="729" />
-    <option name="height" value="593" />
+    <option name="x" value="478" />
+    <option name="y" value="200" />
+    <option name="width" value="822" />
+    <option name="height" value="673" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -354,21 +357,7 @@
       <workItem from="1554131520834" duration="315000" />
       <workItem from="1554131988305" duration="63241000" />
       <workItem from="1554479496278" duration="25865000" />
-      <workItem from="1554691628951" duration="82602000" />
-    </task>
-    <task id="LOCAL-00015" summary="第一个元素不需要 margin left -1px">
-      <created>1553704193359</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1553704193359</updated>
-    </task>
-    <task id="LOCAL-00016" summary="第1个元素不需要 margin left -1px">
-      <created>1553704282365</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1553704282365</updated>
+      <workItem from="1554691628951" duration="89812000" />
     </task>
     <task id="LOCAL-00017" summary="删除red">
       <created>1553704542316</created>
@@ -699,7 +688,21 @@
       <option name="project" value="LOCAL" />
       <updated>1554972222692</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="四个方向的位置">
+      <created>1554978095245</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1554978095245</updated>
+    </task>
+    <task id="LOCAL-00065" summary="使用表驱动编程重构代码">
+      <created>1554982496763</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1554982496763</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -711,7 +714,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="257584000" />
+    <option name="totallyTimeSpent" value="264794000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -723,7 +726,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="619" y="25" width="729" height="593" extended-state="0" />
+    <frame x="478" y="200" width="822" height="673" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46268657" weight="0.32493368" />
@@ -805,8 +808,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
-    <MESSAGE value="创建 layout content footer sider 组件" />
-    <MESSAGE value="基本功能完成" />
     <MESSAGE value="添加 toast 和 plugin" />
     <MESSAGE value="实现 autoClose closeButton enableHtml 多行文字 等功能" />
     <MESSAGE value="实现 position: top/bottom/middle 功能" />
@@ -830,7 +831,9 @@
     <MESSAGE value="功能方面基本完成" />
     <MESSAGE value="重构 tabs.vue" />
     <MESSAGE value="添加默认样式" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加默认样式" />
+    <MESSAGE value="四个方向的位置" />
+    <MESSAGE value="使用表驱动编程重构代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="使用表驱动编程重构代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -872,12 +875,6 @@
           <line>14</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/popover.vue</url>
-          <line>85</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1219,18 +1216,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="61" column="34" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
+        <state relative-caret-position="243">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#g-popover#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/popover.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="45" column="78" selection-start-line="45" selection-start-column="78" selection-end-line="45" selection-end-column="78" />
+        <state relative-caret-position="242">
+          <caret line="49" column="54" selection-start-line="49" selection-start-column="54" selection-end-line="49" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#0;n#template#0;n#!!top" expanded="true" />
           </folding>
