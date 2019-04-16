@@ -1,5 +1,5 @@
 <template>
-    <div class="wrapper" :class="toastClasses">
+    <div class="toast-wrapper" :class="toastClasses">
         <div class="toast" ref="toast">
             <div class="message">
                 <slot v-if="!enableHtml"></slot>
@@ -48,10 +48,6 @@
              }
          }
      },
-     created(){
-
-     },
-
      mounted(){
          this.updateStyles()
          this.execAutoClose()
@@ -107,7 +103,7 @@
         0% {opacity: 0; }
         100% {opacity: 1; }
     }
-    .wrapper{
+    .toast-wrapper{
         position: fixed;
         left: 50%;
         transform: translateX(-50%);
@@ -159,8 +155,5 @@
             border-left: 1px solid #fff;
             margin-left:20px;
         }
-
     }
-
-
 </style>
