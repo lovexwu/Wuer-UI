@@ -11,7 +11,7 @@ import Sider from  './sider'
 import Content from './content'
 import Footer from './footer'
 import Toast from './toast'
-import plugin from './plunin'
+import plugin from './plugin'
 
 import Tabs from './tabs'
 import TabsHead from './tabs-head'

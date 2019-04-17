@@ -14,7 +14,8 @@
         inject: ['eventBus'],
         mounted(){
             this.eventBus.$on('update:selected',(item,vm) => {
-                let {width,left} = vm.$el.getBoundingClientRect()
+                let {width} = vm.$el.getBoundingClientRect()
+                let left = vm.$el.offsetLeft
                 this.$refs.line.style.width = `${width}px`
                 this.$refs.line.style.left = `${left}px`
             })

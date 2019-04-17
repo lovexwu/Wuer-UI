@@ -1,5 +1,9 @@
 ---
-title: Tabs - 标签
+title: Tabs 标签
 ---
 
-# 标签
+# Tabs 标签
+
+<ClientOnly>
+<tabs-demo></tabs-demo>
+</ClientOnly>

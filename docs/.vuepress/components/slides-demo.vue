@@ -14,8 +14,9 @@
     </div>
 </template>
 
-<style>
-    strong{color: #5e6d82;}
+<style scoped>
+    * {box-sizing: border-box;}
+    h2{margin: 50px 0 30px;}
 </style>
 
 <script>
@@ -27,16 +28,14 @@
         },
         data(){
             return{
-            content:`
+             content:`
                 <g-button>默认按钮</g-button>
                 <g-button icon="settings">默认按钮</g-button>
                 <g-button :loading="true">默认按钮</g-button>
                 <g-button disabled>默认按钮</g-button>
-            `.replace(/^ {12}/gm, '').trim()
+             `.replace(/^ {12}/gm, '').trim()
             }
         }
     }
 </script>
-
-
 
