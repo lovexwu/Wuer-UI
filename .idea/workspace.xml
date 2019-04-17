@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3195461b-329e-4d6a-ab30-0fa7a9740ec1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,7 +17,7 @@
     <session id="1803675636">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="29" />
+          <entry key="project.closed" value="30" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="5" />
@@ -38,7 +38,7 @@
           <entry key="html" value="16" />
           <entry key="js" value="90" />
           <entry key="json" value="11" />
-          <entry key="md" value="33" />
+          <entry key="md" value="34" />
           <entry key="sh" value="1" />
           <entry key="ts" value="2" />
           <entry key="vue" value="167" />
@@ -50,7 +50,7 @@
           <entry key="HTML" value="16" />
           <entry key="JSON" value="11" />
           <entry key="JavaScript" value="90" />
-          <entry key="Markdown" value="30" />
+          <entry key="Markdown" value="31" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="TypeScript" value="2" />
           <entry key="Vue.js" value="167" />
@@ -63,7 +63,7 @@
           <entry key="html" value="5485" />
           <entry key="js" value="9788" />
           <entry key="json" value="121" />
-          <entry key="md" value="1038" />
+          <entry key="md" value="1069" />
           <entry key="sh" value="11" />
           <entry key="txt" value="1523" />
           <entry key="vue" value="22706" />
@@ -75,7 +75,7 @@
           <entry key="HTML" value="5577" />
           <entry key="JSON" value="121" />
           <entry key="JavaScript" value="9751" />
-          <entry key="Markdown" value="489" />
+          <entry key="Markdown" value="520" />
           <entry key="PLAIN_TEXT" value="2102" />
           <entry key="Vue.js" value="22661" />
           <entry key="YAML" value="165" />
@@ -88,7 +88,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-1.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-188">
@@ -96,6 +96,20 @@
               <folding>
                 <element signature="n#style#0;n#div#0;n#template#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="414">
+                <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -183,7 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/collapse-item.vue" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/collapse.vue" />
         <option value="$PROJECT_DIR$/docs/README.md" />
@@ -234,6 +247,7 @@
         <option value="$PROJECT_DIR$/docs/.vuepress/components/button-demos.vue" />
         <option value="$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-2.vue" />
         <option value="$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-1.vue" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -253,8 +267,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="825" />
@@ -296,30 +309,6 @@
             <path>
               <item name="gulu-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="gulu-demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gulu-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gulu-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gulu-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gulu-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gulu-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gulu-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gulu-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gulu-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -421,7 +410,7 @@
       <workItem from="1555468778220" duration="1803000" />
       <workItem from="1555470768046" duration="1644000" />
       <workItem from="1555474145840" duration="1789000" />
-      <workItem from="1555475995280" duration="1381000" />
+      <workItem from="1555475995280" duration="1793000" />
     </task>
     <task id="LOCAL-00034" summary="稍微重构了一下">
       <created>1554276678959</created>
@@ -778,7 +767,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="349733000" />
+    <option name="totallyTimeSpent" value="350145000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -791,7 +780,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="15" y="23" width="1440" height="825" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.45117846" visible="true" weight="0.16490486" />
       <window_info id="Structure" order="1" sideWeight="0.54882157" side_tool="true" weight="0.2879915" />
@@ -957,13 +945,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="16123" column="30" selection-start-line="16123" selection-start-column="30" selection-end-line="16123" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/icon.vue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1376,6 +1357,18 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#template#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="414">
+            <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>

@@ -12,25 +12,11 @@
 *,*::before,*::after{box-sizing: border-box}
 ```
 IE8 及 以上浏览器都支持此样式
-你还需要设置默认颜色等变量（后续会改为 SCSS 变量）
-    
-```
-    html {
-        --button-height: 32px;
-        --button-bg: white;
-        --button-active-bg: #eee;
-        --font-size: 14px;
-        --border-radius: 4px;
-        --color: #333;
-        --border-color: #999;
-        --border-color-hover: #666;
-    }
- ```
-IE15 及 以上浏览器都支持此样式
 
+    
 2、安装 gulu
     ```
-    npm i --save xwu_gulu
+    npm i --save xwu_gulu 或  yarn add --save xwu_gulu
     ```
 
 3、引入gulu
@@ -51,13 +37,5 @@ IE15 及 以上浏览器都支持此样式
 ## 文档
 
 
-## 提问
 
-
-## 变更记录
-
-
-## 联系方式
-
-## 贡献代码
 
