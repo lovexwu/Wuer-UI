@@ -1,41 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3195461b-329e-4d6a-ab30-0fa7a9740ec1" name="Default Changelist" comment="官网雏形基本建立">
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-1.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-2.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/grid-demo-1.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/grid-demo-2.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/grid-demo-3.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/input-demo-1.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/input-demo-2.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/layout-demo-1.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/layout-demo-2.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/popover-demo-1.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/popover-demo-2.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/slides-demo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/tabs-demo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/toast-demo-1.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/toast-demo-2.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/toast-demo-3.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/components/collapse.md" afterDir="false" />
+    <list default="true" id="3195461b-329e-4d6a-ab30-0fa7a9740ec1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/components/button-demos.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/components/button-demos.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/components/button.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/components/button.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/components/grid.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/components/grid.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/components/input.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/components/input.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/components/layout.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/components/layout.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/components/popover.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/components/popover.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/components/tabs.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/components/tabs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/components/toast.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/components/toast.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/get-started/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/get-started/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/install/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/install/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/popover.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/popover.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tabs-body.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/tabs-body.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tabs-head.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/tabs-head.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tabs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/tabs.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -98,7 +65,7 @@
           <entry key="json" value="121" />
           <entry key="md" value="1038" />
           <entry key="sh" value="11" />
-          <entry key="txt" value="1514" />
+          <entry key="txt" value="1523" />
           <entry key="vue" value="22706" />
           <entry key="yml" value="165" />
         </counts>
@@ -109,7 +76,7 @@
           <entry key="JSON" value="121" />
           <entry key="JavaScript" value="9751" />
           <entry key="Markdown" value="489" />
-          <entry key="PLAIN_TEXT" value="2093" />
+          <entry key="PLAIN_TEXT" value="2102" />
           <entry key="Vue.js" value="22661" />
           <entry key="YAML" value="165" />
         </counts>
@@ -121,11 +88,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-1.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-60">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="-188">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#template#0;n#!!top" expanded="true" />
               </folding>
@@ -133,7 +100,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-2.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -265,8 +232,8 @@
         <option value="$PROJECT_DIR$/docs/.vuepress/components/toast-demo-2.vue" />
         <option value="$PROJECT_DIR$/docs/.vuepress/components/toast-demo-1.vue" />
         <option value="$PROJECT_DIR$/docs/.vuepress/components/button-demos.vue" />
-        <option value="$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-1.vue" />
         <option value="$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-2.vue" />
+        <option value="$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-1.vue" />
       </list>
     </option>
   </component>
@@ -454,14 +421,7 @@
       <workItem from="1555468778220" duration="1803000" />
       <workItem from="1555470768046" duration="1644000" />
       <workItem from="1555474145840" duration="1789000" />
-      <workItem from="1555475995280" duration="1084000" />
-    </task>
-    <task id="LOCAL-00033" summary="默认就是 phone 样式">
-      <created>1554260507911</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1554260507911</updated>
+      <workItem from="1555475995280" duration="1381000" />
     </task>
     <task id="LOCAL-00034" summary="稍微重构了一下">
       <created>1554276678959</created>
@@ -799,7 +759,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555431191075</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="补全文档">
+      <created>1555477376013</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1555477376014</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -811,7 +778,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="349436000" />
+    <option name="totallyTimeSpent" value="349733000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -905,7 +872,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
-    <MESSAGE value="tab 切换动画完成" />
     <MESSAGE value="完善 tabs 的样式" />
     <MESSAGE value="支持 disabled 功能" />
     <MESSAGE value="添加部分 测试用例" />
@@ -930,7 +896,8 @@
     <MESSAGE value="content.vue 更新" />
     <MESSAGE value="plunin.js 改名为 plugin.js" />
     <MESSAGE value="toast.vue 更新了下样式" />
-    <option name="LAST_COMMIT_MESSAGE" value="toast.vue 更新了下样式" />
+    <MESSAGE value="补全文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="补全文档" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1395,20 +1362,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-1.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-2.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-1.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-188">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
