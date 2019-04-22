@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3195461b-329e-4d6a-ab30-0fa7a9740ec1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/ceshiyi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/ceshiyi.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,15 +20,15 @@
     <session id="1803675636">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="33" />
+          <entry key="project.closed" value="34" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="5" />
-          <entry key="project.open.time.5" value="6" />
+          <entry key="project.open.time.5" value="7" />
           <entry key="project.open.time.6" value="12" />
           <entry key="project.open.time.7" value="7" />
-          <entry key="project.opened" value="35" />
+          <entry key="project.opened" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -40,7 +42,7 @@
           <entry key="html" value="16" />
           <entry key="js" value="91" />
           <entry key="json" value="11" />
-          <entry key="md" value="34" />
+          <entry key="md" value="35" />
           <entry key="sh" value="1" />
           <entry key="ts" value="2" />
           <entry key="vue" value="167" />
@@ -52,7 +54,7 @@
           <entry key="HTML" value="16" />
           <entry key="JSON" value="11" />
           <entry key="JavaScript" value="91" />
-          <entry key="Markdown" value="31" />
+          <entry key="Markdown" value="32" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="TypeScript" value="2" />
           <entry key="Vue.js" value="167" />
@@ -63,11 +65,11 @@
         <counts>
           <entry key="gitignore" value="29" />
           <entry key="html" value="5485" />
-          <entry key="js" value="9827" />
+          <entry key="js" value="9829" />
           <entry key="json" value="121" />
-          <entry key="md" value="1070" />
+          <entry key="md" value="1077" />
           <entry key="sh" value="11" />
-          <entry key="txt" value="1548" />
+          <entry key="txt" value="1557" />
           <entry key="vue" value="22706" />
           <entry key="yml" value="165" />
         </counts>
@@ -76,9 +78,9 @@
         <counts>
           <entry key="HTML" value="5577" />
           <entry key="JSON" value="121" />
-          <entry key="JavaScript" value="9790" />
-          <entry key="Markdown" value="521" />
-          <entry key="PLAIN_TEXT" value="2127" />
+          <entry key="JavaScript" value="9792" />
+          <entry key="Markdown" value="528" />
+          <entry key="PLAIN_TEXT" value="2136" />
           <entry key="Vue.js" value="22661" />
           <entry key="YAML" value="165" />
         </counts>
@@ -117,10 +119,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="1" selection-start-column="1" selection-end-column="9" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+            <state relative-caret-position="240">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -200,7 +216,6 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/collapse.vue" />
-        <option value="$PROJECT_DIR$/docs/README.md" />
         <option value="$PROJECT_DIR$/docs/install/macos.md" />
         <option value="$PROJECT_DIR$/docs/install/windows.md" />
         <option value="$PROJECT_DIR$/.vuepress/config.js" />
@@ -249,6 +264,7 @@
         <option value="$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-1.vue" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
+        <option value="$PROJECT_DIR$/docs/README.md" />
       </list>
     </option>
   </component>
@@ -268,11 +284,11 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="368" />
-    <option name="y" value="23" />
-    <option name="width" value="796" />
-    <option name="height" value="524" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="62" />
+    <option name="y" value="118" />
+    <option name="width" value="1201" />
+    <option name="height" value="714" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -427,14 +443,8 @@
       <workItem from="1555477818162" duration="1502000" />
       <workItem from="1555496263595" duration="8000" />
       <workItem from="1555917148774" duration="224000" />
-      <workItem from="1555923699213" duration="730000" />
-    </task>
-    <task id="LOCAL-00037" summary="创建 layout content footer sider 组件">
-      <created>1554345975606</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1554345975606</updated>
+      <workItem from="1555923699213" duration="1126000" />
+      <workItem from="1555925613448" duration="491000" />
     </task>
     <task id="LOCAL-00038" summary="创建 layout content footer sider 组件">
       <created>1554346402345</created>
@@ -772,7 +782,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555477979518</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="更新 config.js">
+      <created>1555924813504</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1555924813504</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -784,7 +801,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="352609000" />
+    <option name="totallyTimeSpent" value="353496000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -796,10 +813,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="368" y="23" width="796" height="524" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45117846" weight="0.16490486" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.45117846" visible="true" weight="0.089499645" />
       <window_info id="Structure" order="1" sideWeight="0.54882157" side_tool="true" weight="0.2879915" />
       <window_info id="npm" order="2" sideWeight="0.53731346" side_tool="true" weight="0.22123894" />
       <window_info id="Favorites" order="3" sideWeight="0.5221843" side_tool="true" weight="0.32952926" />
@@ -878,7 +895,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
-    <MESSAGE value="支持 disabled 功能" />
     <MESSAGE value="添加部分 测试用例" />
     <MESSAGE value="创建了 popover 组件" />
     <MESSAGE value="实现最简单的 popover" />
@@ -903,7 +919,8 @@
     <MESSAGE value="toast.vue 更新了下样式" />
     <MESSAGE value="补全文档" />
     <MESSAGE value="更新 README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新 README.md" />
+    <MESSAGE value="更新 config.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新 config.js" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1003,18 +1020,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="240">
             <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -1312,18 +1317,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="21" selection-start-line="21" selection-end-line="21" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-2.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1361,8 +1354,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        <state relative-caret-position="240">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="21" selection-start-line="21" selection-end-line="21" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="1" selection-start-column="1" selection-end-column="9" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>

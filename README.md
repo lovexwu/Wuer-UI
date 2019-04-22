@@ -1,4 +1,4 @@
-# 轱辘 一个 Vue UI 组件
+#  一个 Vue UI 组件
 
 [![Build Status](https://travis-ci.org/lovexwu/gulu.svg?branch=master)](https://travis-ci.org/lovexwu/gulu)
 
@@ -35,7 +35,6 @@ IE8 及 以上浏览器都支持此样式
 
 
 
-## 文档
 
 
 
