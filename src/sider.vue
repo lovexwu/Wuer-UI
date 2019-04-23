@@ -20,12 +20,12 @@
 
 <style lang="scss" scoped>
     .sider{
-        position: relative;
-        > button{
-            position: absolute;
-            top: 0;
-            right: 0;
-        }
+            position: relative;
+            > button{
+                position: absolute;
+                top: 0;
+                right: 0;
+            }
     }
     .slide-enter-active, .slide-leave-active {transition:all 3s;}
     .slide-enter, .slide-leave-to {margin-left: -200px;}

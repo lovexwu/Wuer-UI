@@ -25,7 +25,7 @@
 
 <style lang="scss" scoped>
     $tab-height: 40px;
-    $blue: #1890ff;
+    $blue: #3182bd;
     $border-color: #ddd;
     .tabs-head{
         display: flex;

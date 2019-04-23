@@ -37,10 +37,9 @@
     }
 </script>
 
-
 <style lang="scss" scoped>
     .row{
-        display:flex;
+            display:flex;
         flex-wrap: wrap;
 
         &.align-left{
@@ -54,4 +53,5 @@
         &.align-center{
             justify-content: center;
         }
-    }</style>
+    }
+</style>

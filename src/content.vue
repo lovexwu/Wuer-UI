@@ -9,7 +9,5 @@
 </script>
 
 <style lang="scss" scoped>
-    .g-content{
-        flex-grow: 1;
-    }
+    .g-content{flex-grow: 1;}
 </style>
