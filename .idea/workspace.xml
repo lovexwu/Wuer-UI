@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3195461b-329e-4d6a-ab30-0fa7a9740ec1" name="Default Changelist" comment="更新 content.vue">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/components/button-demos.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/components/button-demos.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-1.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-1.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-2.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-2.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/components/grid-demo-1.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/components/grid-demo-1.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/components/grid-demo-2.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/components/grid-demo-2.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/components/grid-demo-3.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/components/grid-demo-3.vue" afterDir="false" />
@@ -97,7 +93,7 @@
           <entry key="json" value="121" />
           <entry key="md" value="1995" />
           <entry key="sh" value="11" />
-          <entry key="txt" value="1668" />
+          <entry key="txt" value="1694" />
           <entry key="vue" value="23024" />
           <entry key="yml" value="165" />
         </counts>
@@ -109,7 +105,7 @@
           <entry key="JSON" value="121" />
           <entry key="JavaScript" value="9861" />
           <entry key="Markdown" value="1378" />
-          <entry key="PLAIN_TEXT" value="2247" />
+          <entry key="PLAIN_TEXT" value="2273" />
           <entry key="Vue.js" value="22979" />
           <entry key="YAML" value="165" />
         </counts>
@@ -484,21 +480,7 @@
       <workItem from="1555989078188" duration="1817000" />
       <workItem from="1555990919468" duration="2223000" />
       <workItem from="1555995197584" duration="1789000" />
-      <workItem from="1555997011135" duration="1043000" />
-    </task>
-    <task id="LOCAL-00046" summary="优化三种动画">
-      <created>1554643781686</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1554643781686</updated>
-    </task>
-    <task id="LOCAL-00047" summary="完成 toast 测试用例">
-      <created>1554703905462</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1554703905462</updated>
+      <workItem from="1555997011135" duration="1306000" />
     </task>
     <task id="LOCAL-00048" summary="添加 tabs 相关组件">
       <created>1554718901232</created>
@@ -829,7 +811,21 @@
       <option name="project" value="LOCAL" />
       <updated>1555997726043</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="更新 button.vue 部分">
+      <created>1555998249545</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1555998249545</updated>
+    </task>
+    <task id="LOCAL-00096" summary="更新 collapse 手风琴">
+      <created>1555998317767</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1555998317767</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -841,7 +837,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="380520000" />
+    <option name="totallyTimeSpent" value="380783000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -853,7 +849,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="490" y="139" width="1440" height="555" extended-state="0" />
+    <frame x="405" y="305" width="1440" height="555" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.45117846" visible="true" weight="0.16138126" />
@@ -935,8 +931,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
-    <MESSAGE value="添加默认样式" />
-    <MESSAGE value="四个方向的位置" />
     <MESSAGE value="使用表驱动编程重构代码" />
     <MESSAGE value="支持两种事件触发" />
     <MESSAGE value="解决抖动 bug" />
@@ -960,7 +954,9 @@
     <MESSAGE value="更新 tabs 选中状态的样式" />
     <MESSAGE value="更新 tabs-item.vue" />
     <MESSAGE value="补全文档" />
-    <option name="LAST_COMMIT_MESSAGE" value="补全文档" />
+    <MESSAGE value="更新 button.vue 部分" />
+    <MESSAGE value="更新 collapse 手风琴" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新 collapse 手风琴" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
