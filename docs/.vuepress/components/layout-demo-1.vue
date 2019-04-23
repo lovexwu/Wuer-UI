@@ -1,30 +1,13 @@
 <template>
-    <div>
-        <h2>基本布局</h2>
-        <p>
-            <strong>预览</strong>
-        </p>
-        <g-layout>
-            <g-header>Header</g-header>
-            <g-content>Content</g-content>
-            <g-footer>Footer</g-footer>
+    <div style="padding-top: 15px;">
+        <g-layout style="color: #3182bd;">
+            <g-header style="background:#d3dce6;height:50px;">Header</g-header>
+            <g-content style="background:#e5e9f2;height:100px;">Content</g-content>
+            <g-footer style="background:#d3dce6;height:50px;">Footer</g-footer>
         </g-layout>
-        <p>
-            <strong>代码</strong>
-        </p>
-        <pre><code>{{content}}</code></pre>
     </div>
 </template>
 
-<style scoped>
-* {box-sizing: border-box;}
-h2{margin: 50px 0 30px;}
-.layout{color: #3182bd;}
-.header{background:#d3dce6;height:50px;}
-.g-content{background:#e5e9f2;height:100px;}
-.footer{background:#d3dce6;height:50px;}
-.header,.g-content,.footer{display:flex;justify-content: center;align-items: center;}
-</style>
 
 <script>
 import Layout from '../../../src/layout'
@@ -40,18 +23,6 @@ export default {
         'g-content': Content,
         'g-sider': Sider,
         'g-footer': Footer
-    },
-
-    data(){
-        return{
-        content:`
-            <g-layout>
-                <g-header>Header</g-header>
-                <g-content>Content</g-content>
-                <g-footer>Footer</g-footer>
-            </g-layout>
-        `.replace(/^ {12}/gm,'').trim()
-        }
     }
 }
 </script>
