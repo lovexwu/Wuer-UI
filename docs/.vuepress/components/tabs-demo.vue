@@ -1,8 +1,5 @@
 <template>
-    <div>
-        <p>
-            <strong>预览</strong>
-        </p>
+    <div style="padding-top: 15px;">
         <g-tabs :selected="selectedTab">
             <g-tabs-head>
                 <g-tabs-item name="1">Tab1</g-tabs-item>
@@ -15,16 +12,8 @@
                 <g-tabs-pane name="3">Tab3Content</g-tabs-pane>
             </g-tabs-body>
         </g-tabs>
-        <p>
-            <strong>代码</strong>
-        </p>
-        <pre><code>{{content}}</code></pre>
     </div>
 </template>
-
-<style scoped>
-* {box-sizing: border-box;}
-</style>
 
 <script>
 import Tabs from '../../../src/tabs'
@@ -43,24 +32,7 @@ export default {
     },
     data(){
         return{
-        selectedTab: '1',
-        content:`
-            data:{
-                selectedTab: '1'
-            }
-            <g-tabs :selected.sync="selectedTab"> 
-                <g-tabs-head> 
-                    <g-tabs-item name="1">Tab1</g-tabs-item> 
-                    <g-tabs-item name="2">Tab2</g-tabs-item> 
-                    <g-tabs-item name="3">Tab3</g-tabs-item> 
-                </g-tabs-head> 
-                <g-tabs-body> 
-                    <g-tabs-pane name="1">Tab1Content</g-tabs-pane> 
-                    <g-tabs-pane name="2">Tab2Content</g-tabs-pane> 
-                    <g-tabs-pane name="3">Tab3Content</g-tabs-pane> 
-                </g-tabs-body> 
-            </g-tabs>
-        `.replace(/^ {12}/gm, '').trim()
+            selectedTab: '1'
         }
     }
 }
