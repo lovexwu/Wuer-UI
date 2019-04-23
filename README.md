@@ -17,20 +17,20 @@ IE8 及 以上浏览器都支持此样式
 2、安装 gulu
 
 ```
-    npm i --save xwu_gulu  或  yarn add --save xwu_gulu
+npm i --save xwu_gulu  或  yarn add --save xwu_gulu
 ```
 
 3、引入gulu
 ```
-    import {Button,ButtonGroup,Icon} from 'xwu_gulu'
-    import 'xwu_gulu/dist/index.css'
+import {Button,ButtonGroup,Icon} from 'xwu_gulu'
+import 'xwu_gulu/dist/index.css'
 
-    export default {
-      name: 'app',
-      components: {
-        'g-button': Button
-      }
+export default {
+    name: 'app',
+    components: {
+       'g-button': Button
     }
+}
 ```
 
 ## 文档
