@@ -1,5 +1,8 @@
-# Wuer-UI 官网
+# Gulu-UI
 
- Wuer-UI 是一个好用的 UI 框架，提供常用组件，适合移动端和PC端使用
+ Gulu-UI 是一款好用的UI框架，提供了一些常用组件，适合移动端和PC端使用
+ 
+ 
+ 组件有：Button、Input、Tabs、Layout、 Grid、Toast、Popover、Collpase等
 
 

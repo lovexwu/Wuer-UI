@@ -1,6 +1,6 @@
 module.exports = {
     base: '/gulu/',
-    title: 'WuerUI',
+    title: 'Gulu-UI',
     description: '一个好用的UI框架',
     themeConfig: {
         nav: [
@@ -10,6 +10,12 @@ module.exports = {
         ],
 
         sidebar: [
+            {
+                title: '介绍',
+                collapsable: false,
+                children: ['/']
+            },
+
             {
                 title: '入门',
                 collapsable: false,
