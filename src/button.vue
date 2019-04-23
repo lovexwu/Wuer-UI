@@ -43,7 +43,6 @@
     $border-color-hover: #666;
     $button-active-bg: #eee;
 
-
     .g-button{
         font-size: $font-size;
         height: $button-height;
