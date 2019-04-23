@@ -4,7 +4,7 @@ title: Collpase 手风琴
 
 # Collpase 手风琴
 
-### 单个Tab
+### 单个Tab（其中设置参数 single）
 ------
 每次只能展开一个面板
 
