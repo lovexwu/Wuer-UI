@@ -8,7 +8,7 @@
 ## 开始使用
 
 1、添加 CSS 样式
-```
+```css
 *,*::before,*::after{box-sizing: border-box}
 ```
 IE8 及 以上浏览器都支持此样式
@@ -16,12 +16,12 @@ IE8 及 以上浏览器都支持此样式
     
 2、安装 gulu
 
-```
+```sh
 npm i --save xwu_gulu  或  yarn add --save xwu_gulu
 ```
 
 3、引入gulu
-```
+```sh
 import {Button,ButtonGroup,Icon} from 'xwu_gulu'
 import 'xwu_gulu/dist/index.css'
 
