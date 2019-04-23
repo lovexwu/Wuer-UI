@@ -1,22 +1,11 @@
 <template>
-    <div>
-        <p>
-            <strong>预览</strong>
-        </p>
+    <div style="padding-top: 15px;">
         <g-button>默认按钮</g-button>
-        <g-button icon="settings">默认按钮</g-button>
-        <g-button :loading="true">默认按钮</g-button>
-        <g-button disabled>默认按钮</g-button>
-        <p>
-            <strong>代码</strong>
-        </p>
-        <pre><code>{{content}}</code></pre>
+        <g-button icon="settings">设置</g-button>
+        <g-button :loading="true">Loading</g-button>
+        <g-button disabled>禁用</g-button>
     </div>
 </template>
-
-<style>
-    strong{color: #5e6d82;}
-</style>
 
 <script>
     import Button from '../../../src/button'
@@ -24,16 +13,6 @@
     export default {
         components:{
             'g-button': Button
-        },
-        data(){
-            return{
-            content:`
-                <g-button>默认按钮</g-button>
-                <g-button icon="settings">默认按钮</g-button>
-                <g-button :loading="true">默认按钮</g-button>
-                <g-button disabled>默认按钮</g-button>
-            `.replace(/^ {12}/gm, '').trim()
-            }
         }
     }
 </script>

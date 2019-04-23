@@ -33,18 +33,6 @@
       <change beforePath="$PROJECT_DIR$/docs/components/toast.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/components/toast.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/get-started/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/get-started/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/install/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/install/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/content.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/icon.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/icon.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/input.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/input.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/row.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/row.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sider.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/sider.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tabs-body.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/tabs-body.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tabs-head.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/tabs-head.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tabs-item.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/tabs-item.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tabs-pane.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/tabs-pane.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toast.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/toast.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -109,7 +97,7 @@
           <entry key="json" value="121" />
           <entry key="md" value="1995" />
           <entry key="sh" value="11" />
-          <entry key="txt" value="1623" />
+          <entry key="txt" value="1668" />
           <entry key="vue" value="23024" />
           <entry key="yml" value="165" />
         </counts>
@@ -121,7 +109,7 @@
           <entry key="JSON" value="121" />
           <entry key="JavaScript" value="9861" />
           <entry key="Markdown" value="1378" />
-          <entry key="PLAIN_TEXT" value="2202" />
+          <entry key="PLAIN_TEXT" value="2247" />
           <entry key="Vue.js" value="22979" />
           <entry key="YAML" value="165" />
         </counts>
@@ -154,8 +142,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/toast.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="143" column="51" selection-start-line="143" selection-start-column="51" selection-end-line="143" selection-end-column="51" />
+            <state relative-caret-position="292">
+              <caret line="146" column="8" lean-forward="true" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -320,8 +308,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="798" />
-    <option name="y" value="137" />
+    <option name="x" value="490" />
+    <option name="y" value="139" />
     <option name="width" value="1440" />
     <option name="height" value="555" />
   </component>
@@ -367,7 +355,13 @@
             <path>
               <item name="gulu-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="gulu-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gulu-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gulu-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -490,35 +484,7 @@
       <workItem from="1555989078188" duration="1817000" />
       <workItem from="1555990919468" duration="2223000" />
       <workItem from="1555995197584" duration="1789000" />
-      <workItem from="1555997011135" duration="550000" />
-    </task>
-    <task id="LOCAL-00042" summary="实现 position: top/bottom/middle 功能">
-      <created>1554623223274</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1554623223274</updated>
-    </task>
-    <task id="LOCAL-00043" summary="实现了 只能有一个 Toast  的功能">
-      <created>1554627161746</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1554627161746</updated>
-    </task>
-    <task id="LOCAL-00044" summary="解决 currentToast 的一个 bug">
-      <created>1554629947496</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1554629947496</updated>
-    </task>
-    <task id="LOCAL-00045" summary="实现进入 动画">
-      <created>1554630083861</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1554630083861</updated>
+      <workItem from="1555997011135" duration="1043000" />
     </task>
     <task id="LOCAL-00046" summary="优化三种动画">
       <created>1554643781686</created>
@@ -835,7 +801,35 @@
       <option name="project" value="LOCAL" />
       <updated>1555997560187</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="更新 toast.vue">
+      <created>1555997599399</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1555997599399</updated>
+    </task>
+    <task id="LOCAL-00092" summary="更新 tabs 选中状态的样式">
+      <created>1555997652006</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1555997652006</updated>
+    </task>
+    <task id="LOCAL-00093" summary="更新 tabs-item.vue">
+      <created>1555997677117</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1555997677117</updated>
+    </task>
+    <task id="LOCAL-00094" summary="补全文档">
+      <created>1555997726043</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1555997726043</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -847,7 +841,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="380027000" />
+    <option name="totallyTimeSpent" value="380520000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -859,7 +853,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="798" y="137" width="1440" height="555" extended-state="0" />
+    <frame x="490" y="139" width="1440" height="555" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.45117846" visible="true" weight="0.16138126" />
@@ -941,9 +935,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
-    <MESSAGE value="解决当容器有 overflow hidden 造成的 bug" />
-    <MESSAGE value="功能方面基本完成" />
-    <MESSAGE value="重构 tabs.vue" />
     <MESSAGE value="添加默认样式" />
     <MESSAGE value="四个方向的位置" />
     <MESSAGE value="使用表驱动编程重构代码" />
@@ -960,13 +951,16 @@
     <MESSAGE value="content.vue 更新" />
     <MESSAGE value="plunin.js 改名为 plugin.js" />
     <MESSAGE value="toast.vue 更新了下样式" />
-    <MESSAGE value="补全文档" />
     <MESSAGE value="更新 config.js" />
     <MESSAGE value="更新 README.md" />
     <MESSAGE value="创建官网 更新" />
     <MESSAGE value="添加 row 的测试 更新" />
     <MESSAGE value="更新 基本功能完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新 基本功能完成" />
+    <MESSAGE value="更新 toast.vue" />
+    <MESSAGE value="更新 tabs 选中状态的样式" />
+    <MESSAGE value="更新 tabs-item.vue" />
+    <MESSAGE value="补全文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="补全文档" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1118,6 +1112,9 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="225">
             <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <folding>
+              <element signature="e#0#27#0" expanded="true" />
+            </folding>
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -1431,8 +1428,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/toast.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="143" column="51" selection-start-line="143" selection-start-column="51" selection-end-line="143" selection-end-column="51" />
+        <state relative-caret-position="292">
+          <caret line="146" column="8" lean-forward="true" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="8" />
         </state>
       </provider>
     </entry>
