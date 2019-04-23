@@ -13,7 +13,6 @@
         </span>
         </div>
     </div>
-
 </template>
 
 <script>
@@ -141,19 +140,8 @@
         border-radius: 4px;
         box-shadow: 0 0 3px 0 rgba(0,0,0,0.50);
 
-        .message{
-            padding: 8px 0;
-        }
-
-        .close {
-            padding-left: 16px;
-            flex-shrink: 0;
-        }
-
-        .line{
-            height: 100%;
-            border-left: 1px solid #fff;
-            margin-left:20px;
-        }
+        .message{padding: 8px 0;}
+        .close {padding-left: 16px;flex-shrink: 0;}
+        .line{height: 100%;border-left: 1px solid #fff;margin-left:20px;}
     }
 </style>

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3195461b-329e-4d6a-ab30-0fa7a9740ec1" name="Default Changelist" comment="更新 config.js">
+    <list default="true" id="3195461b-329e-4d6a-ab30-0fa7a9740ec1" name="Default Changelist" comment="更新 content.vue">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/components/button-demos.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/components/button-demos.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-1.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-1.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-2.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/components/collapse-demo-2.vue" afterDir="false" />
@@ -34,10 +33,7 @@
       <change beforePath="$PROJECT_DIR$/docs/components/toast.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/components/toast.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/get-started/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/get-started/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/install/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/install/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/button.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/button.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/col.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/col.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/content.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/footer.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/header.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/icon.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/icon.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/input.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/input.vue" afterDir="false" />
@@ -113,7 +109,7 @@
           <entry key="json" value="121" />
           <entry key="md" value="1995" />
           <entry key="sh" value="11" />
-          <entry key="txt" value="1569" />
+          <entry key="txt" value="1623" />
           <entry key="vue" value="23024" />
           <entry key="yml" value="165" />
         </counts>
@@ -125,7 +121,7 @@
           <entry key="JSON" value="121" />
           <entry key="JavaScript" value="9861" />
           <entry key="Markdown" value="1378" />
-          <entry key="PLAIN_TEXT" value="2148" />
+          <entry key="PLAIN_TEXT" value="2202" />
           <entry key="Vue.js" value="22979" />
           <entry key="YAML" value="165" />
         </counts>
@@ -158,7 +154,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/toast.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
+            <state relative-caret-position="275">
               <caret line="143" column="51" selection-start-line="143" selection-start-column="51" selection-end-line="143" selection-end-column="51" />
             </state>
           </provider>
@@ -494,28 +490,7 @@
       <workItem from="1555989078188" duration="1817000" />
       <workItem from="1555990919468" duration="2223000" />
       <workItem from="1555995197584" duration="1789000" />
-      <workItem from="1555997011135" duration="304000" />
-    </task>
-    <task id="LOCAL-00039" summary="基本功能完成">
-      <created>1554356570538</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1554356570538</updated>
-    </task>
-    <task id="LOCAL-00040" summary="添加 toast 和 plugin">
-      <created>1554373549212</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1554373549212</updated>
-    </task>
-    <task id="LOCAL-00041" summary="实现 autoClose closeButton enableHtml 多行文字 等功能">
-      <created>1554619440968</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1554619440968</updated>
+      <workItem from="1555997011135" duration="550000" />
     </task>
     <task id="LOCAL-00042" summary="实现 position: top/bottom/middle 功能">
       <created>1554623223274</created>
@@ -839,7 +814,28 @@
       <option name="project" value="LOCAL" />
       <updated>1555926742793</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="创建官网 更新">
+      <created>1555997449450</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1555997449450</updated>
+    </task>
+    <task id="LOCAL-00089" summary="添加 row 的测试 更新">
+      <created>1555997493010</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1555997493010</updated>
+    </task>
+    <task id="LOCAL-00090" summary="更新 基本功能完成">
+      <created>1555997560187</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1555997560187</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -851,7 +847,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="379781000" />
+    <option name="totallyTimeSpent" value="380027000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -863,7 +859,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="825" extended-state="0" />
+    <frame x="798" y="137" width="1440" height="555" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.45117846" visible="true" weight="0.16138126" />
@@ -945,9 +941,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
-    <MESSAGE value="添加部分 测试用例" />
-    <MESSAGE value="创建了 popover 组件" />
-    <MESSAGE value="实现最简单的 popover" />
     <MESSAGE value="解决当容器有 overflow hidden 造成的 bug" />
     <MESSAGE value="功能方面基本完成" />
     <MESSAGE value="重构 tabs.vue" />
@@ -970,7 +963,10 @@
     <MESSAGE value="补全文档" />
     <MESSAGE value="更新 config.js" />
     <MESSAGE value="更新 README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新 README.md" />
+    <MESSAGE value="创建官网 更新" />
+    <MESSAGE value="添加 row 的测试 更新" />
+    <MESSAGE value="更新 基本功能完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新 基本功能完成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1435,7 +1431,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/toast.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
+        <state relative-caret-position="275">
           <caret line="143" column="51" selection-start-line="143" selection-start-column="51" selection-end-line="143" selection-end-column="51" />
         </state>
       </provider>
